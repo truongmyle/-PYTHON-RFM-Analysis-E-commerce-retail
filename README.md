@@ -163,9 +163,7 @@ This project uses **Python** to analyze **SuperStore's transaction data**, aimin
 
 <img width="659" height="514" alt="Screenshot 2026-03-23 164412" src="https://github.com/user-attachments/assets/ce3167dd-382b-4547-b841-8f77b02b3872" />
 
-🎯Observations: 
-
-- High Frequency (F) and recent activity (R) are the best predictors of High Monetary (M) value
+🎯Observations: High Frequency (F) and recent activity (R) are the best predictors of High Monetary (M) value
 
 **- Recency as a Value Multiplier:** As Recency (R Score) increases from 1 to 5, the average monetary value grows significantly across almost all Frequency levels. This proves that "Active" customers spend much more per transaction than "Lapsing" ones.
 
@@ -190,10 +188,12 @@ This project uses **Python** to analyze **SuperStore's transaction data**, aimin
 ## 🔎 Final Conclusion & Recommendations
 
 📍 Business Status
-  - The company is in a High-Revenue, High-Churn state. While the financial performance is strongly supported by a dedicated "Champion" segment, the foundation is fragile because the vast majority of customers (Hibernating/Lost) are disengaging. The business relies too heavily on a small group (about 17% of people providing 57% of revenue).
+  
+ **-** The company is in a High-Revenue, High-Churn state. While the financial performance is strongly supported by a dedicated "Champion" segment, the foundation is fragile because the vast majority of customers (Hibernating/Lost) are disengaging. The business relies too heavily on a small group (about 17% of people providing 57% of revenue).
 
 📍 Recency (R) is the most critical metric
-  - Looking at our Heatmap, customers with an R-Score of 5 consistently show the highest average spending (Monetary). You cannot drive Frequency (F) or Monetary (M) if the customer is no longer active (Low R).
+  
+  **-** Looking at our Heatmap, customers with an R-Score of 5 consistently show the highest average spending (Monetary). You cannot drive Frequency (F) or Monetary (M) if the customer is no longer active (Low R).
 
 📍 Recommendations:
 
@@ -215,7 +215,7 @@ This project uses **Python** to analyze **SuperStore's transaction data**, aimin
 
 **3. Churn Prevention & Reactivation (Hibernating)**
 
-- High-Value "Shock" Coupons: For the Hibernating segment - the largest group, use aggressive, one-time holiday coupons to pull them back into the platform before they are lost forever.
+**-** High-Value "Shock" Coupons: For the Hibernating segment - the largest group, use aggressive, one-time holiday coupons to pull them back into the platform before they are lost forever.
 
 **4. Market & Operational Optimization**
 
