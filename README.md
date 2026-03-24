@@ -9,7 +9,7 @@ Tools Used: Python
 ## 📑 Table of Contents  
 1. [📌 Background & Overview](#-background--overview)  
 2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)
-3. [⚒️ Main Process](#-main-process)
+3. [📊 Main Process](#-main-process)
 4. [📊 Key Insights & Visualizations](#-key-insights--visualizations)  
 5. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
  
@@ -76,7 +76,7 @@ This project uses **Python** to analyze **SuperStore's transaction data**, aimin
 
 ---
 
-## ⚒️ Main Process
+## 📊 Main Process
 
 **1️⃣ Data Cleaning & Preprocessing:**
 
